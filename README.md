@@ -1,6 +1,6 @@
 ## Background
 After a lot of hard work in the data wrangling mines, I have been assigned the task of analysing the data for a new fantasy game, Heroes of Pymoli.
-Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. I have generates a report that breaks down the game's purchasing data into meaningful insights.
+Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. I have generated a report that breaks down the game's purchasing data into meaningful insights.
 
 My final report includes each of the following:
 
