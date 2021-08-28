@@ -1,8 +1,4 @@
-# pandas-challenge
-
-pandas-challenge. Homework - Firdaus Mehta
-
-Observable Trends
+## Observable Trends
  - 84% of the players were male
 
  - The peak age demographic is between 20-24 (44.79%)
