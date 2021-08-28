@@ -23,15 +23,15 @@ My final report includes each of the following:
 
 ### Purchasing Analysis (Gender)
 
-* The below each broken by gender
+* The below each broken down by gender
   * Purchase Count
   * Average Purchase Price
   * Total Purchase Value
-  * Average Purchase Total per Person by Gender
+  * Average Purchase Total per person by Gender
 
 ### Age Demographics
 
-* The below each broken into bins of 4 years (i.e. &lt;10, 10-14, 15-19, etc.)
+* The below each broken into bins of 4 years
   * Purchase Count
   * Average Purchase Price
   * Total Purchase Value
@@ -39,7 +39,7 @@ My final report includes each of the following:
 
 ### Purchasing Analysis (age)
 
-* The below each broken into bins of 4 years (i.e. &lt;10, 10-14, 15-19, etc.)
+* The below each broken into bins of 4 years
   * Purchase Count
   * Average Purchase Price
   * Total Purchase Value
@@ -47,15 +47,14 @@ My final report includes each of the following:
 
 ### Top Spenders
 
-* Identify the the top 5 spenders in the game by total purchase value, then list (in a table):
-  * SN
+* Identified the the top 5 spenders in the game by total purchase value
   * Purchase Count
   * Average Purchase Price
   * Total Purchase Value
 
 ### Most Popular Items
 
-* Identify the 5 most popular items by purchase count, then list (in a table):
+* Identified the 5 most popular items by purchase count
   * Item ID
   * Item Name
   * Purchase Count
@@ -64,7 +63,7 @@ My final report includes each of the following:
 
 ### Most Profitable Items
 
-* Identify the 5 most profitable items by total purchase value, then list (in a table):
+* Identified the 5 most profitable items by total purchase value
   * Item ID
   * Item Name
   * Purchase Count
@@ -77,5 +76,3 @@ My final report includes each of the following:
  - The peak age demographic is between 20-24 (44.79%)
  
  - The age group that spends the most money is 20-24 with 1,114.06 dollars as total purchase value.
-
-
